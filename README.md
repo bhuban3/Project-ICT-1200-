@@ -1,5 +1,5 @@
-
 Online Shopping Cart System
+
 Online shopping cart system is a simple, console-based shopping cart application written in C. This program allows users to load products from a file, add or remove items from a cart, view the current cart contents, and save the cart for future sessions. It also personalizes the experience by greeting the user by name in the cart summary.
 Features
 •	Load Products from File: Loads a list of available products from products.txt.
